@@ -1,0 +1,153 @@
+﻿<UserControl x:Class="Menu.Control_de_usuario_gestion_de_devolucion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Menu"
+         
+             mc:Ignorable="d" Height="877" Width="900">
+
+
+
+
+
+
+
+    <Grid RenderTransformOrigin="0.278,0.603" Background="White" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="59"/>
+            <RowDefinition Height="34"/>
+            <RowDefinition Height="146"/>
+            <RowDefinition Height="509"/>
+        </Grid.RowDefinitions>
+        <Canvas Margin="54,10,24,7" Grid.Row="3" HorizontalAlignment="Center" Width="822">
+            <DataGrid x:Name="dtg_lista_de_prestamos" VerticalAlignment="Stretch"  Height="130" Width="822" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="dtg_lista_de_prestamos_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding idPrestamos}" />
+                    <DataGridTextColumn Header="Artículo" Binding="{Binding NombreArticulo}" />
+                    <DataGridTextColumn Header="Costo en Horas" Binding="{Binding Costoenhoras}" />
+                    <DataGridTextColumn Header="Cédula del estudiante" Binding="{Binding cedulaCliente}" />
+                    <DataGridTextColumn Header="Estudiante" Binding="{Binding nombreCliente}" />
+                    <DataGridTextColumn Header="Usuario" Binding="{Binding Nombre}" />
+                    <DataGridTextColumn Header="Fecha de registro" Binding="{Binding fechadeRegistro}" />
+                    <DataGridTextColumn Header="Tiempo" Binding="{Binding tiempoAlquiler}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+        <Canvas Margin="274,21,86,10" Grid.Row="1" HorizontalAlignment="Center" Width="540">
+            <Label x:Name="lbl_buscar_prestamo" Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="61" FontSize="16"/>
+            <TextBox x:Name="txtBuscar_prestamos" LostFocus="txtBuscar_LostFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" FontSize="14" Canvas.Left="66"/>
+            <TextBox x:Name="txtBuscar_marca" Text="--Ingrese el número de cédula del estudiante--" GotFocus="txtBuscar_marca_GotFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" FontSize="14" Canvas.Left="66"/>
+            <Button x:Name="btn_buscar_cedula_gdev"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="41" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="456" Click="btn_buscar_cedula_gdev_Click">
+
+                <Image Source="Iconos\lupa.png"/>
+            </Button>
+        </Canvas>
+        <Canvas Margin="304,10,113,10" HorizontalAlignment="Center" Width="483">
+            <Label x:Name="lbl_devoluciones" Content="GESTIÓN DE DEVOLUCIONES" HorizontalAlignment="Center" VerticalAlignment="Top" Width="412" FontSize="24" Canvas.Left="61" Canvas.Top="9"/>
+            <Image HorizontalAlignment="Left" Height="49" VerticalAlignment="Top" Width="56" Source="Iconos/intercambio.png"/>
+
+
+
+
+
+
+        </Canvas>
+        <Canvas Margin="10,0,681,0" Grid.Row="2">
+            <Canvas Height="40" Width="209">
+                <Label x:Name="lbl_prestamos" Content="Lista de prestamos" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="168" FontSize="16" Canvas.Left="41"/>
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="41" Source="Iconos/archivos.png"/>
+            </Canvas>
+        </Canvas>
+        <ScrollViewer Margin="0,18,24,-23" Grid.Row="4">
+            <Grid Height="525" Width="830">
+                <Canvas Margin="0,162,0,0">
+                    <Button x:Name="btn_registrar_devolucion" Content="Registrar  devolución" VerticalAlignment="Top" Height="32" Canvas.Left="361" Canvas.Top="321" Width="198" Click="btn_registrar_devolucion_Click" IsEnabled="False"/>
+                    <Label x:Name="lbl_total_alquiler" Content="Total a pagar:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="114" FontSize="16" Canvas.Left="291" Canvas.Top="261"/>
+                    <TextBox x:Name="txt_total_alquiler"   HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" FontSize="14" Canvas.Left="410" Canvas.Top="261"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_unidad_dinero_3" Content="   $" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="54" FontSize="16" Canvas.Left="546" Canvas.Top="261"/>
+                    <Label x:Name="lbl_cedula" Content="Cédula:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="66" FontSize="16" Canvas.Left="40" Canvas.Top="58"/>
+                    <TextBox x:Name="txt_cedula"  HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" FontSize="14" Canvas.Left="119" Canvas.Top="58"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_nombre_est" Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="69" FontSize="16" Canvas.Left="40" Canvas.Top="104"/>
+                    <TextBox x:Name="txt_nombre_est"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" FontSize="14" Canvas.Left="119" Canvas.Top="104"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_estado_de_aportacion" Content="Estado de aportación:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="168" FontSize="16" Canvas.Left="40" Canvas.Top="155"/>
+                    <TextBox x:Name="txt_est_aportacion"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="128" FontSize="14" Canvas.Left="208" Canvas.Top="155"  IsReadOnly="True"/>
+                    <Label Content="Datos del estudiante:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="187" FontSize="16" Canvas.Left="40"/>
+                    <Image HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="40" Source="Iconos/informacion-personal.png"/>
+                    <Label x:Name="lbl_descuento_aportante" Content="Descuento de aportante:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="187" FontSize="16" Canvas.Left="481" Canvas.Top="58"/>
+                    <TextBox x:Name="txt_desc_aportante"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="110" FontSize="14" Canvas.Left="673" Canvas.Top="58" IsReadOnly="True"/>
+                    <Label x:Name="lbl_unidad_dinero" Content="   $" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="42" FontSize="16" Canvas.Left="783" Canvas.Top="58"/>
+                    <Label x:Name="lbl_penalizacion" Content="Penalizacion:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="105" FontSize="16" Canvas.Left="481" Canvas.Top="104"/>
+                    <TextBox x:Name="txt_valor_de_penalizacion"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" FontSize="14" Canvas.Left="591" Canvas.Top="104" LostFocus="txt_valor_de_penalizacion_LostFocus" TextChanged="txt_valor_de_penalizacion_TextChanged"/>
+                    <Label x:Name="lbl_unidad_dinero_1" Content="   $" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="42" FontSize="16" Canvas.Left="783" Canvas.Top="104"/>
+                    <Label x:Name="lbl_justificacion" Content="Justificacion:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Width="101" Height="29" Canvas.Left="481" Canvas.Top="155"/>
+                    <TextBox x:Name="txt_justificacion_penalizacion" HorizontalAlignment="Left" Height="77" TextWrapping="Wrap" VerticalAlignment="Top" Width="213" FontSize="14" CaretBrush="{x:Null}" SelectionBrush="{x:Null}" Foreground="Black" BorderBrush="#89FFFFFF" Background="#FFF0F0F0" Canvas.Left="591" Canvas.Top="155"/>
+                    <Label x:Name="lbl_valor_contabilizados" Content="Valores contabilizados:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="187" FontSize="16" Canvas.Left="481"/>
+                    <Image HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="40" Source="Iconos/contabilidad.png" Canvas.Left="434"/>
+                    <Border BorderBrush="#FF2196F3" BorderThickness="1" HorizontalAlignment="Left" Height="2" VerticalAlignment="Top" Width="146" RenderTransformOrigin="0.5,0.5" Canvas.Left="49" Canvas.Top="29">
+                        <Border.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                                <SkewTransform/>
+                                <RotateTransform/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Border.RenderTransform>
+                    </Border>
+                    <Border BorderBrush="#FF2196F3" BorderThickness="1" HorizontalAlignment="Left" Height="2" VerticalAlignment="Top" Width="156" RenderTransformOrigin="0.5,0.5" Canvas.Left="487" Canvas.Top="29">
+                        <Border.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                                <SkewTransform/>
+                                <RotateTransform/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Border.RenderTransform>
+                    </Border>
+                </Canvas>
+                <Canvas Margin="0,0,0,372">
+                    <Label x:Name="lbl_tiempo_de_alquiler" Content="Tiempo de alquiler:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="149" FontSize="16" Canvas.Left="484" Canvas.Top="51"/>
+                    <TextBox x:Name="txt_tiempo_de_alquiler"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" FontSize="14" TextAlignment="Center" Canvas.Left="638" Canvas.Top="51"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_nombre_de_articulo" Content="Nombre del artículo:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="156" FontSize="16" Canvas.Left="40" Canvas.Top="51"/>
+                    <TextBox x:Name="txtNombre_articulo"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" FontSize="14" RenderTransformOrigin="0.5,0.5" Canvas.Left="201" Canvas.Top="51"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_unidad_horas" Content=" Hora(s)" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="65" FontSize="16" Canvas.Left="717" Canvas.Top="51"/>
+                    <TextBox x:Name="txtFecha_de_devolucion" HorizontalAlignment="Left" Height="32" TextWrapping="Wrap"  VerticalAlignment="Top" Width="133" FontSize="16" IsEnabled="False" IsReadOnly="True" TextAlignment="Center" Canvas.Left="649" Canvas.Top="-1"/>
+                    <Label Content="Detalle de registro:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="143" FontSize="16" Canvas.Left="40"/>
+                    <Image HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="40" Source="Iconos/detalles.png" Canvas.Top="1"/>
+                    <Label x:Name="lbl_resp_alquiler" Content="Responsable del alquiler:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="186" FontSize="16" Canvas.Left="40" Canvas.Top="112"/>
+                    <TextBox x:Name="txt_resp_de_alquiler"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" FontSize="14" Canvas.Left="231" Canvas.Top="112"  IsReadOnly="True"/>
+                    <Label x:Name="lbl_fecha_dev" Content="Fecha de devolución:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="160" FontSize="16" Canvas.Left="484"/>
+                    <Label x:Name="lbl_resp_alquiler_Copy" Content="Devuelto a:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="96" FontSize="16" Canvas.Left="484" Canvas.Top="112"/>
+                    <TextBox x:Name="txt_resp_de_devolucion"   HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="197" FontSize="14" Canvas.Left="580" Canvas.Top="112"  IsReadOnly="True"/>
+                    <Border BorderBrush="#FF2196F3" BorderThickness="1" HorizontalAlignment="Left" Height="1" VerticalAlignment="Top" Width="136" RenderTransformOrigin="0.5,0.5" Canvas.Left="44" Canvas.Top="30">
+                        <Border.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                                <SkewTransform/>
+                                <RotateTransform/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Border.RenderTransform>
+                    </Border>
+                </Canvas>
+            </Grid>
+        </ScrollViewer>
+        <Border BorderBrush="#FF2196F3" BorderThickness="1" HorizontalAlignment="Left" Height="1" Margin="10,3,0,0" Grid.Row="4" VerticalAlignment="Top" Width="890"/>
+
+
+
+
+
+
+
+
+    </Grid>
+
+
+
+
+
+
+</UserControl>

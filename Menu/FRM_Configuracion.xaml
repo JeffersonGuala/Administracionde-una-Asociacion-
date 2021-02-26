@@ -1,0 +1,54 @@
+﻿<Window x:Class="Menu.FRM_Configuracion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menu"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Menú de Configuración" Height="450" Width="800" WindowStartupLocation="CenterScreen"  BorderBrush="#FF0074FF" Background="White" Foreground="Black" Icon="Iconos/Logo.png">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2B8FE2" Offset="0"/>
+                <GradientStop Color="White" Offset="0.413"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Canvas Margin="50,168,577,87" HorizontalAlignment="Center" Width="165">
+            <Image HorizontalAlignment="Left" Height="164" VerticalAlignment="Top" Width="162" Source="Iconos/Logo.png" Canvas.Left="3"/>
+        </Canvas>
+        <Button x:Name="btn_guardar_cambios" Content="Guardar cambios" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Margin="280,323,0,0" Click="btn_guardar_cambios_Click"/>
+        <Image HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="35" Source="Iconos/disquete.png" Margin="240,323,0,0"/>
+        <Button x:Name="btn_cerrar" Content="Cerrar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="134"  Margin="508,323,0,0" Click="btn_cerrar_Click"/>
+        <Image HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="35" Source="Iconos/cerca.png" Margin="468,323,0,0"/>
+        <Canvas Margin="242,56,152,220" HorizontalAlignment="Center" Width="398">
+            <Label x:Name="lbl_configuracion" Content=" Configuración" HorizontalAlignment="Center" VerticalAlignment="Top" Height="42" Width="173" FontSize="24" Canvas.Left="50"/>
+            <Label Content="Semestre activo:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="131" FontSize="16" Canvas.Left="40" Canvas.Top="94"/>
+            <Image HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="50" Source="Iconos/engranaje.png"/>
+            <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="35" Source="Iconos/calendario.png" Canvas.Top="94"/>
+            <ComboBox x:Name="cmb_semestre" Canvas.Left="176" Canvas.Top="94" Width="222" SelectionChanged="cmb_semestre_SelectionChanged">
+                <ComboBox.ItemsSource>
+                    <CompositeCollection>
+                        <ListBoxItem>Nuevo Semestre</ListBoxItem>
+                        <CollectionContainer x:Name="cc_semestres"></CollectionContainer>
+                    </CompositeCollection>
+                </ComboBox.ItemsSource>
+            </ComboBox>
+        </Canvas>
+        <Canvas x:Name="c_nuevoSemestre" Visibility="Hidden" Margin="238,199,61,101" HorizontalAlignment="Center" Width="493">
+            <Label Content="Semestre:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="86" FontSize="16" Canvas.Left="10" Canvas.Top="10"/>
+            <ComboBox x:Name="cmb_semestre_year" Canvas.Left="101" Canvas.Top="10" Width="89"/>
+            <Label Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="23" FontSize="16" Canvas.Left="195" Canvas.Top="10"/>
+            <ComboBox x:Name="cmb_semestre_nombre" Canvas.Left="218" Canvas.Top="10" Width="89">
+                <ComboBoxItem>A</ComboBoxItem>
+                <ComboBoxItem>B</ComboBoxItem>
+            </ComboBox>
+            <Label Content="Fecha de Inicio:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="120" FontSize="16" Canvas.Left="10" Canvas.Top="65"/>
+            <DatePicker Name="dp_fechaInicio" Canvas.Left="135" Canvas.Top="68" RenderTransformOrigin="3.94,0.456" Width="110" SelectedDateChanged="sp_fechaInicio_SelectedDateChanged"/>
+            <Label Content="Fecha de Fin:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="102" FontSize="16" Canvas.Left="273" Canvas.Top="65"/>
+            <DatePicker x:Name="dp_fechaFin" Canvas.Left="380" Canvas.Top="68" RenderTransformOrigin="3.94,0.456" Width="110"/>
+        </Canvas>
+
+    </Grid>
+</Window>

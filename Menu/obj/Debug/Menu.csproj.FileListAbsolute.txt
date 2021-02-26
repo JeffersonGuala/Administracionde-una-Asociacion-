@@ -1,0 +1,438 @@
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\MainWindow.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.g.resources
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\App.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Transitions.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Transitions.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\hp\Source\Repos\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+C:\Users\hp\Source\Repos\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Menu.exe
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Menu.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Transitions.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Transitions.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\App.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.g.resources
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.exe
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\Menu.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\RdlCompile.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\obj\Debug\RdlCompile.compiled
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Menu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Menu.exe.config
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Menu.exe
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Menu.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Transitions.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Transitions.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuarios.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\MainWindow.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\App.g.cs
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\App.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuarios.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\MainWindow.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.g.resources
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.exe
+E:\Downloads\Pfinal v2.0\Menu\Menu\obj\Debug\Menu.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Menu.exe
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Menu.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Transitions.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Transitions.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuarios.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\App.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuarios.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.g.resources
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\RdlCompile.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\RdlCompile.compiled
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.exe
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Menu\obj\Debug\Menu.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Menu.exe.config
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Menu.exe
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Menu.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Transitions.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Transitions.pdb
+E:\Downloads\Pfinal\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuarios.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\MainWindow.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\App.g.cs
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\App.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuarios.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\MainWindow.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.g.resources
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.exe
+E:\Downloads\Pfinal\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\MaterialDesignColors.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Transitions.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_de_datosASELEC.dll
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_de_negocios_ASELEC.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Transitions.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\bin\Debug\Capa_de_datosASELEC.pdb
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_bienvenida.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuarios.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_ventas.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Autenticacion.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Configuracion.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\UserControlMenuItem.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\App.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_bienvenida.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuarios.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Administracion_Estudiantes.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Gastos.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_de_devolucion.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_gestion_prestamos.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_Inventarios.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_inventario_de_productos.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_lista_de_estudiantes.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_alquileres.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_aportantes.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_gastos.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_de_ventas.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_reporte_total.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Control_de_usuario_ventas.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Autenticacion.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_auxiliar_de_ingreso_de_estudiantes.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Ayuda_de_usuario.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\FRM_Configuracion.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\UserControlMenuItem.baml
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.g.resources
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\LENOVO\source\repos\Menu\Menu\obj\Debug\Menu.pdb

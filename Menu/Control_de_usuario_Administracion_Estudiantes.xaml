@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="Menu.Control_de_usuario_Administracion_Estudiantes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Menu"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="900" Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <AlternationConverter x:Key="AlternationConverter"/>
+    </UserControl.Resources>
+    <Grid RenderTransformOrigin="0.278,0.603" Background="White">
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="9*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="88"/>
+            <RowDefinition Height="95"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+        <Canvas Margin="50,30,10,119" Grid.Row="2">
+            <DataGrid x:Name="dtg_admin_estudiantes" VerticalAlignment="Stretch"  Height="252" Width="516" SelectionChanged="dtg_admin_estudiantes_SelectionChanged" AutoGenerateColumns="False"  IsReadOnly="True" IsEnabled="True" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding idEstudiante}" />
+                    <DataGridTextColumn Header="Aportación" Binding="{Binding NombreTipoAport}" />
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding nombreCliente}" />
+                    <DataGridTextColumn Header="Cédula" Binding="{Binding cedulaCliente}" />
+                    <DataGridTextColumn Header="Carrera" Binding="{Binding NombreCarrera}" />
+                    <DataGridTextColumn Header="Correo" Binding="{Binding correo}" />
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding telefono}" />
+                    <DataGridTextColumn Header="Valor" Binding="{Binding valor_de_aportacion}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+        <Canvas Margin="68,359,48,10" Grid.Row="2">
+            <Button x:Name="btn_actualizar_admin_estudiantes" Content="Actualizar" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="108" Height="32" Canvas.Left="45" Click="btn_actualizar_admin_estudiantes_Click"/>
+            <Button x:Name="btn_eliminar_admin_estudiantes" Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="108" Height="32" Canvas.Left="352" Click="btn_eliminar_admin_estudiantes_Click"/>
+            <Image Source="Iconos/eliminar.png" Height="32" Canvas.Left="307" Width="45"/>
+            <Image Source="Iconos/actualizado.png" Height="32" Width="45"/>
+        </Canvas>
+
+
+
+
+
+
+        <Canvas Margin="50,45,10,10" Grid.Row="1">
+            <Label x:Name="lbl_buscar_admin_estudiantes" Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="61" FontSize="16"/>
+            <TextBox x:Name="txtBuscar_adminestudiantes" LostFocus="txtBuscar_LostFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Canvas.Left="66" FontSize="14"/>
+            <TextBox x:Name="txtBuscar_marca" Text="--Ingrese el nombre del estudiante--" GotFocus="txtBuscar_marca_GotFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Canvas.Left="66" FontSize="14"/>
+            <Button x:Name="btn_buscar_admin_estudiantes"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="41" Canvas.Left="456" Background="{x:Null}" BorderBrush="{x:Null}" Click="btn_buscar_admin_estudiantes_Click">
+
+                <Image Source="Iconos\lupa.png"/>
+            </Button>
+
+
+
+
+
+
+        </Canvas>
+        <Canvas Grid.ColumnSpan="2" Margin="204,30,98,10" HorizontalAlignment="Center" Width="598">
+            <Label x:Name="lbl_adminestudiantes" Content="ADMINISTRACIÓN DE ESTUDIANTES" HorizontalAlignment="Center" VerticalAlignment="Top" Width="518" FontSize="24" Canvas.Left="61" Canvas.Top="6"/>
+            <Image x:Name="img_estudiantesadmin" HorizontalAlignment="Left" Height="49" VerticalAlignment="Top" Width="56" Source="Iconos/grupo (1).png"/>
+
+
+
+
+
+
+        </Canvas>
+        <Canvas Grid.Column="1" Margin="10,45,10,10" Grid.Row="1" Grid.RowSpan="2">
+            <Button x:Name="btn_agregar_admin_estudiantes" Content="Agregar" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="108" Height="32" Canvas.Left="126" Canvas.Top="410" Click="btn_agregar_admin_estudiantes_Click"/>
+            <Image Source="Iconos/boton-agregar (3).png" Height="32" Canvas.Left="81" Canvas.Top="410" Width="45"/>
+            <Label x:Name="lbl_nombre_estudiante" Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Padding="4" Width="67" Canvas.Top="71"/>
+            <TextBox x:Name="txt_nombre_admin_estudiantes" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="14" Canvas.Left="72" Canvas.Top="71" PreviewTextInput="txt_nombre_admin_estudiantes_PreviewTextInput"/>
+            <Label x:Name="lbl_cedula_admin_estudiantes" Content="Cédula:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="67" Canvas.Top="131"/>
+            <TextBox x:Name="txt_cedula_admin_estudiantes" HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="14" Canvas.Left="72" Canvas.Top="130" PreviewTextInput="txt_cedula_admin_estudiantes_PreviewTextInput" MaxLength="10"/>
+            <Label x:Name="lbl_carrera" Content="Carrera:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Height="31" Width="67" Canvas.Top="189"/>
+            <ComboBox x:Name="cmb_carrera_admin_estudiantes" HorizontalAlignment="Center" VerticalAlignment="Top" Width="232"  IsEditable="True" 
+                IsReadOnly="True" 
+                Text="-- Seleccione una opción --" Canvas.Left="72" Canvas.Top="189"   />
+
+
+
+            <Label x:Name="lbl_correo" Content="Correo:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Height="27" Width="67" Canvas.Top="247"/>
+            <Label x:Name="lbl_telefono" Content="Teléfono:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="67" Canvas.Top="301"/>
+            <TextBox x:Name="txt_telefono_admin_estudiantes" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="14" Canvas.Left="72" Canvas.Top="301" MaxLength="10" PreviewTextInput="txt_telefono_admin_estudiantes_PreviewTextInput"/>
+            <TextBox x:Name="txt_correo_admin_estudiantes" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="14" Canvas.Left="72" Canvas.Top="247"/>
+            <Label x:Name="lbl_estado_de_aportacion" Content="Estado de aportación:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Height="31" Width="144"/>
+            <ComboBox x:Name="cmb_Estado_de_aportacion" HorizontalAlignment="Left" VerticalAlignment="Top" Width="232" FontSize="14"  IsEditable="True" 
+                IsReadOnly="True" 
+                Text="-- Seleccione una opción --" SelectionChanged="cmb_Estado_de_aportacion_SelectionChanged" Canvas.Left="72" Canvas.Top="31" />
+
+
+
+
+            <Label x:Name="lbl_valor_de_aportacion" Content="Valor de aportación:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="144" Canvas.Top="356"/>
+            <TextBox x:Name="txt_Valor_de_aportacion" HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="14" Canvas.Left="152" Canvas.Top="356" IsReadOnly="True" IsEnabled="False" TextAlignment="Center" MaxLength="5" PreviewTextInput="txt_Valor_de_aportacion_PreviewTextInput" />
+            <Label x:Name="lbl_simbolo_dinero" Content=" $" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Height="27" Width="26" Canvas.Left="254" Canvas.Top="357"/>
+
+
+
+
+
+
+        </Canvas>
+
+
+
+
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="Menu.Control_de_usuario_lista_de_estudiantes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Menu"
+              mc:Ignorable="d"
+                 d:DesignHeight="600" d:DesignWidth="900">
+
+    <Grid RenderTransformOrigin="0.278,0.603" Background="White">
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="88"/>
+            <RowDefinition Height="95"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+        <Canvas Margin="56,28,56,10" Grid.Row="2" HorizontalAlignment="Center" Width="790">
+            <DataGrid x:Name="dtg_lista_estudiantes" VerticalAlignment="Stretch"  Height="353" Width="790" AutoGenerateColumns="False"  IsReadOnly="True" IsEnabled="True" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding idEstudiante}" />
+                    <DataGridTextColumn Header="Aportación" Binding="{Binding NombreTipoAport}" />
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding nombreCliente}" />
+                    <DataGridTextColumn Header="Cédula" Binding="{Binding cedulaCliente}" />
+                    <DataGridTextColumn Header="Carrera" Binding="{Binding NombreCarrera}" />
+                    <DataGridTextColumn Header="Correo" Binding="{Binding correo}" />
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding telefono}" />
+                    <DataGridTextColumn Header="Valor" Binding="{Binding valor_de_aportacion}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+
+
+
+
+
+
+        <Canvas Margin="237,28,153,27" Grid.Row="1" HorizontalAlignment="Center" Width="510">
+            <Label x:Name="lbl_buscar_est" Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="61" FontSize="16"/>
+            <TextBox x:Name="txtBuscar_nomb_est" LostFocus="txtBuscar_LostFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Canvas.Left="66" FontSize="14"/>
+            <TextBox x:Name="txtBuscar_marca" Text="--Ingrese el nombre del estudiante--" GotFocus="txtBuscar_marca_GotFocus" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Canvas.Left="66" FontSize="14"/>
+            <Button x:Name="btn_buscar_est"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="41" Canvas.Left="456" Background="{x:Null}" BorderBrush="{x:Null}" Click="btn_buscar_est_Click">
+
+                <Image Source="Iconos\lupa.png"/>
+            </Button>
+
+
+
+
+
+
+        </Canvas>
+        <Canvas Margin="314,30,264,10" HorizontalAlignment="Center" Width="322">
+            <Label x:Name="lbl_lista_estudiantes" Content="LISTA DE ESTUDIANTES" HorizontalAlignment="Center" VerticalAlignment="Top" Width="254" FontSize="24" Canvas.Left="61" Canvas.Top="6"/>
+            <Image HorizontalAlignment="Left" Height="49" VerticalAlignment="Top" Width="56" Source="Iconos/grupo (1).png"/>
+
+
+
+
+
+
+        </Canvas>
+
+
+
+
+
+
+    </Grid>
+</UserControl>

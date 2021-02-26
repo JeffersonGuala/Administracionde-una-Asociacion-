@@ -1,0 +1,49 @@
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\hp\Source\Repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csprojAssemblyReference.cache
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal v2.0\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+D:\Documents\Visual Studio 2019\Projects\v3\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csprojAssemblyReference.cache
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+E:\Downloads\Pfinal\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.dll
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_de_datosASELEC.pdb
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.dll
+C:\Users\LENOVO\source\repos\Menu\Capa_de_datosASELEC\obj\Debug\Capa_de_datosASELEC.pdb

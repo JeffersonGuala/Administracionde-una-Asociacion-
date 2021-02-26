@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="Menu.Control_de_Usuarios"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Menu"
+             mc:Ignorable="d" 
+            d:DesignHeight="600" d:DesignWidth="900">
+    <Grid RenderTransformOrigin="0.278,0.603" Background="White">
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="9*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="88"/>
+            <RowDefinition Height="95"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+        <Canvas Margin="50,0,10,277" Grid.Row="2">
+            <DataGrid x:Name="dtg_modulo_usuarios" VerticalAlignment="Stretch"  Height="124" Width="516" SelectionChanged="dtg_modulo_usuarios_SelectionChanged" AutoGenerateColumns="False"  IsReadOnly="True" IsEnabled="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding idUsuario}" />
+
+                    <DataGridTextColumn Header="Usuario"  Binding="{Binding tipo}"/>
+
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" />
+
+
+                    <DataGridTextColumn Header="Correo" Binding="{Binding Correo_us}" />
+                    <DataGridTextColumn Header="Password" Width="" Binding="{Binding 	passwordUsuario}" />
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+        <Canvas Grid.Column="1" Margin="10,45,34,87" Grid.Row="1" Grid.RowSpan="2">
+            <Button x:Name="actualizar_usuario" Content="Actualizar" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="108" Height="32" Canvas.Left="131" Canvas.Top="333" Click="actualizar_usuario_Click"/>
+            <Image Source="Iconos/renovar.png" Height="32" Canvas.Left="86" Canvas.Top="333" Width="45"/>
+            <Label x:Name="lbl_nombre" Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Padding="4" Width="67" Canvas.Top="51"/>
+            <TextBox x:Name="txt_nombre" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" FontSize="14" Canvas.Left="72" Canvas.Top="51"/>
+            <Label x:Name="lbl_cantidad_mod_gasto" Content="Email:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="67" Canvas.Top="117"/>
+            <TextBox x:Name="txt_email" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" FontSize="14" Canvas.Left="51" Canvas.Top="117"/>
+            <Label x:Name="lbl_justificacion_gasto" Content="Confirme Contraseña:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Canvas.Top="248" FontSize="13"/>
+            <Label x:Name="lbl_valor_total" Content="Contraseña:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="13" Height="27" Width="126" Canvas.Top="181"/>
+            <Label x:Name="lbl_nombre_Copy" Content="Tipo de Usuario:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Padding="4" Width="111"/>
+            <PasswordBox x:Name="pass_box" HorizontalAlignment="Left" VerticalAlignment="Top" Width="144" Canvas.Left="136" Canvas.Top="183"/>
+            <PasswordBox x:Name="pass_confirm_box" HorizontalAlignment="Left" VerticalAlignment="Top" Width="144" Canvas.Left="136" Canvas.Top="250"/>
+            <ComboBox x:Name="cmb_t_U" Canvas.Left="116" Width="164" Height="27" IsEnabled="False" IsReadOnly="True" FontSize="14"/>
+        </Canvas>
+        <Canvas Grid.ColumnSpan="2" Margin="164,30,155,10" HorizontalAlignment="Center" Width="581">
+            <Label x:Name="lbl_mod_User" Content="MÓDULO DE GESTIÓN DE USUARIOS" HorizontalAlignment="Center" VerticalAlignment="Top" Width="518" FontSize="24" Canvas.Left="61"/>
+            <Image HorizontalAlignment="Left" Height="49" VerticalAlignment="Top" Width="56" Source="Iconos/usuario (2).png"/>
+        </Canvas>
+        <Canvas Margin="50,45,389,24" Grid.Row="1">
+            <Label x:Name="lbl_nombre_Copy1" Content="Usuarios del sistema:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Padding="4" Width="137"/>
+
+
+
+
+
+
+
+
+
+        </Canvas>
+        <Button x:Name="btn_cargar" Content="Cargar Usuarios" HorizontalAlignment="Left" Margin="372,45,0,0" Grid.Row="1" VerticalAlignment="Top" Width="194" Height="27" Click="btn_cargar_Click"/>
+
+
+
+
+
+
+
+
+
+    </Grid>
+</UserControl>

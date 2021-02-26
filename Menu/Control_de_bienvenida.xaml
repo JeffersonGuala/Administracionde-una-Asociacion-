@@ -1,0 +1,155 @@
+﻿<UserControl x:Class="Menu.Control_de_bienvenida"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Menu"
+             mc:Ignorable="d" d:DesignWidth="800" Height="673.62">
+    <Grid Margin="0,0,0,10">
+
+        <StackPanel x:Name="StackPanelMain" HorizontalAlignment="Stretch" >
+            <StackPanel.Background>
+                <ImageBrush ImageSource="logo_aeie.png" TileMode="Tile"/>
+            </StackPanel.Background>
+
+            <Label Content="         BIENVENIDO" Height="46" VerticalAlignment="Center" Margin="166,0,101,0" FontSize="25" HorizontalAlignment="Center" Width="275"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="38" Width="462">
+
+                <Label Content="Datos del usuario:" Foreground="#DD000000" Width="121" Margin="0,10,0,0" FontSize="14"/>
+                <Label x:Name="lbl_tipo_de_usuario1" Content="" Foreground="#DD000000" Width="327" Margin="0,10,0,0" FontSize="14"/>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="38" Width="462">
+
+                <Label Content="Nombre:" Foreground="#DD000000" Width="67" Margin="0,10,0,0" FontSize="14"/>
+                <Label x:Name="lbl_nombre_usuario" Content="" Foreground="#DD000000" Width="223" Margin="0,10,0,0" FontSize="14"/>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="48" Width="462">
+
+                <Label Content="Correo:" Foreground="#DD000000" Width="67" Margin="0,10" FontSize="14"/>
+                <Label x:Name="lbl_correo_usuario" Content="" Foreground="#DD000000" Width="233" Margin="0,10" FontSize="14"/>
+
+            </StackPanel>
+
+
+
+
+
+
+
+
+
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="274" Width="665" Margin="132,0,69,0">
+
+                <Image Height="256" Width="334"  Opacity="0.75">
+                    <Image.Triggers>
+                        <EventTrigger RoutedEvent="Loaded">
+                            <BeginStoryboard>
+                                <Storyboard RepeatBehavior="Forever">
+                                    <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Source"
+                                                   Duration="0:0:30">
+                                        <DiscreteObjectKeyFrame KeyTime="0:0:0">
+                                            <DiscreteObjectKeyFrame.Value>
+                                                <BitmapImage UriSource="Iconos/aso.jpg" />
+                                            </DiscreteObjectKeyFrame.Value>
+                                        </DiscreteObjectKeyFrame>
+                                        <DiscreteObjectKeyFrame KeyTime="0:0:15">
+                                            <DiscreteObjectKeyFrame.Value>
+                                                <BitmapImage UriSource="Iconos/43115210_2179064819007691_8468981243428470784_o.jpg"/>
+                                            </DiscreteObjectKeyFrame.Value>
+                                        </DiscreteObjectKeyFrame>
+                                    </ObjectAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Image.Triggers>
+                </Image>
+
+
+
+                <Image Height="256" Width="335"  Opacity="0.75">
+                    <Image.Triggers>
+                        <EventTrigger RoutedEvent="Loaded">
+                            <BeginStoryboard>
+                                <Storyboard RepeatBehavior="Forever">
+                                    <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Source"
+                                                   Duration="0:0:30">
+                                        <DiscreteObjectKeyFrame KeyTime="0:0:0">
+                                            <DiscreteObjectKeyFrame.Value>
+                                                <BitmapImage UriSource="Iconos/46488504_2205188069728699_8896761308959997952_o.jpg"/>
+                                            </DiscreteObjectKeyFrame.Value>
+                                        </DiscreteObjectKeyFrame>
+                                        <DiscreteObjectKeyFrame KeyTime="0:0:15">
+                                            <DiscreteObjectKeyFrame.Value>
+                                                <BitmapImage UriSource="Iconos/126059779_2767827453464755_4213622988042604099_o.jpg"/>
+                                            </DiscreteObjectKeyFrame.Value>
+                                        </DiscreteObjectKeyFrame>
+                                    </ObjectAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Image.Triggers>
+                </Image>
+
+
+
+
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="37" Width="797">
+
+                <Label Content="Dirección: Alfredo Mena Caamaño y Bilbao (Escuela Politécnica Nacional) " Canvas.Top="26" Width="797" FontSize="14" Margin="0,6,0,0"/>
+
+            </StackPanel>
+
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="28" Margin="0,0,140,0" Width="402">
+
+                <Label Content="Edificio: 16 (Facultad de Ingeniería Eléctrica y Electrónica) " Height="26" Canvas.Top="26" Width="365" FontSize="14" Margin="0,1"/>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="28" Width="80">
+
+                <Label Content="Contactos:  " Height="26" HorizontalAlignment="Left" Width="84" Canvas.Top="52" Margin="0,1" FontSize="14"/>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="36" Margin="85,0,0,0" Width="523">
+
+                <Image Source="Iconos/llamada-telefonica.png" Height="22" Canvas.Left="74" Canvas.Top="109" Width="17"/>
+
+
+                <Label Content=" (02)2-976-300 ext. 221" Height="25" Canvas.Top="110" Width="293" Canvas.Left="96" Margin="0,6,0,5" FontSize="14"/>
+
+                <Image Source="Iconos/facebook (2).png" Height="23" Width="35" Margin="0,6"/>
+                <Label Content=" AEIE EPN Electrónica" Height="25" Canvas.Top="110" Width="154" Canvas.Left="96" Margin="0,6,0,5" FontSize="14"/>
+
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Stretch" Height="28" Margin="85,0,0,0" Width="523">
+
+                <Image Source="Iconos/correo-electronico.png" Height="22" Canvas.Left="74" Canvas.Top="109" Width="17"/>
+
+
+
+                <Label Content=" asoelectronica.epn@gmail.com" Height="26" Canvas.Top="86" Width="327" Canvas.Left="96" Margin="0,1" FontSize="14"/>
+
+                <Label Content=" @aso.electronica.epn  " Height="26" Canvas.Top="86" Width="163" Canvas.Left="96" Margin="0,1" FontSize="14"/>
+            </StackPanel>
+
+
+
+        </StackPanel>
+
+
+    </Grid>
+</UserControl>

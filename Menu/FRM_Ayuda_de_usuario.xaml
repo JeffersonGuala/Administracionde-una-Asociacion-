@@ -1,0 +1,20 @@
+﻿<Window x:Class="Menu.FRM_Ayuda_de_usuario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menu"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Ayuda_de_usuario" Height="690.183" Width="1252.761" WindowStartupLocation="CenterScreen"  BorderBrush="#FF0074FF" Background="White" Foreground="Black" Icon="Iconos/Logo.png">
+
+    <Grid Margin="0,0,2,-21">
+        <DocumentViewer x:Name="document_viewer_ayuda" HorizontalAlignment="Left" VerticalAlignment="Top" Height="638" Width="970" Margin="255,0,0,0" Loaded="document_viewer_ayuda_Loaded">
+            <DocumentViewer.ContextMenu>
+                <ContextMenu/>
+            </DocumentViewer.ContextMenu>
+        </DocumentViewer>
+        <Image HorizontalAlignment="Left" Height="205" Margin="10,213,0,0" VerticalAlignment="Top" Width="210" Source="Iconos/Logo.png"/>
+
+    </Grid>
+</Window>
